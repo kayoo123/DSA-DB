@@ -1,4 +1,5 @@
 ---
+characters:
 title: Mickey
 ---
 
