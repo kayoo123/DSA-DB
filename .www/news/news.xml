@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+ <title>dsa.jeremi.biz News</title>
+ <description>Site perso pour partage de connaissance.</description>
+ <link>https://dsa.jeremi.biz</link>
+ <ttl>1800</ttl>
+ <atom:link href="https://dsa.jeremi.biz/news/news.xml" rel="self" type="application/rss+xml" />
+ <item><title>05/02/2020: He is AliiiiiiiiiVvvveeeeeee !!!!</title><description>He is AliiiiiiiiiVvvveeeeeee !!!!</description><link>https://dsa.jeremi.biz/news/20191202a.html</link><guid isPermaLink="true">https://dsa.jeremi.biz/news/20191202a.html</guid><pubDate>Sat, 02 May 2020 00:00:00 +0200</pubDate></item>
+
+</channel>
+</rss>
