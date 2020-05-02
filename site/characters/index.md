@@ -6,4 +6,4 @@ title: Characters
 
 Page où lister les personnages :
 
-* [Mickey](mickey.html)
+* [Mickey](Mickey.html)
