@@ -1,5 +1,5 @@
 ---
-characters:
+characters: True
 title: Mickey
 ---
 
