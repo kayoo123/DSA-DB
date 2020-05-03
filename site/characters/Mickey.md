@@ -1,5 +1,5 @@
 ---
-characters: True
+editable: True
 title: Mickey
 ---
 
