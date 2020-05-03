@@ -4,8 +4,6 @@ title: Characters
 
 # Search
 
-Type something in the input field to search in the list:
-
 <input id="myInput" type="text" placeholder="Search..">
 
 <ul id="myList">
