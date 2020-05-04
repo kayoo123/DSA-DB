@@ -128,10 +128,4 @@ for (var i = 0; i < btns.length; i++) {
   margin-bottom: 12px;
 }
 
-.link
-{
-   color:aqua;
-   text-decoration: none; 
-   background-color: none;
-}
 </style>
