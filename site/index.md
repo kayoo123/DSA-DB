@@ -2,6 +2,7 @@
 title: DSA-DataBase
 ---
 ![logo](https://dsa.jeremi.biz/img/logo.png "Welcome")
+
 dsa-db.com is a fan made website which aims to provide accurate information on heroes, spells, gear, items, and more!
 
 For that, it receives help from the community by receiving suggestions, ideas and game data via Github repositories. If you feel like giving us a hand, please see below links. All help is appreciated! 
