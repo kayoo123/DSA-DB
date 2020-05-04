@@ -127,4 +127,11 @@ for (var i = 0; i < btns.length; i++) {
   border: 1px solid #ddd;
   margin-bottom: 12px;
 }
+
+.link
+{
+   color:aqua;
+   text-decoration: none; 
+   background-color: none;
+}
 </style>
