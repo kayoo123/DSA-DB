@@ -2,6 +2,5 @@
 title: Spells
 ---
 
-# Search
-
-Page où lister les sorts
+# Sorry, Not implemented Yet...
+...be prepared!
