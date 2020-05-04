@@ -55,24 +55,12 @@ cd        .www
             mk
         ;;
 
-#        *wiki*.md)
-#            [ "${file%%.md}" = index ] && { title=Wiki; wiki=; }
-#            [ "${file%%.md}" = index ] || { title=${file%%.md}; wiki=1; }
-#
-#            sed -i'' 's|https://github.com/kisslinux/wiki/|/|g' "$WORKDIR/site/$page"
-#
-#            mk --metadata title="$(echo "$title" | sed 's/-/ /g')" \
-#               --metadata wiki="$wiki" \
-#               --from markdown-markdown_in_html_blocks-raw_html
-#        ;;
-
         *.md)
             mk
         ;;
 
         *)
             cp "$WORKDIR/site/$page" "$page"
-
             printf '%s\n' "CP $page"
         ;;
     esac
