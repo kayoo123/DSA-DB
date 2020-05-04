@@ -92,6 +92,11 @@ for (var i = 0; i < btns.length; i++) {
 </script>
 
 <style>
+.classname a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+  
 .filterDiv {
   float: left;
   background-color: #2196F3;
