@@ -5,13 +5,14 @@ title: Characters
 <input id="myInput" type="text" placeholder="Search..">
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-  <button class="btn" onclick="filterSelection('cars')"> Cars</button>
-  <button class="btn" onclick="filterSelection('animals')"> Animals</button>
-  <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
-  <button class="btn" onclick="filterSelection('colors')"> Colors</button>
+  <button class="btn" onclick="filterSelection('Hero')"> Hero</button>
+  <button class="btn" onclick="filterSelection('Villain')"> Villain</button>
+  <button class="btn" onclick="filterSelection('Offense')"> Offense</button>
+  <button class="btn" onclick="filterSelection('Support')"> Support</button>
+  <button class="btn" onclick="filterSelection('Defense')"> Defense</button>
 </div>
 <div class="container">
-  <div class="filterDiv cars">BMW</div>
+  <div class="filterDiv Hero Offense"><a href="Mickey.html">Mickey</a></div>
   <div class="filterDiv colors fruits">Orange</div>
   <div class="filterDiv cars">Volvo</div>
   <div class="filterDiv colors">Red</div>
