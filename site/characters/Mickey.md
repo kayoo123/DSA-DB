@@ -3,8 +3,9 @@ characters-editable: True
 title: Mickey
 ---
 
+* Class: `Hero`
 * Role: `Offense`
-* Type: `Hero` `Kingdom` `Mickey and friends`
+* Type: `Kingdom`
 * Max. Power: `406`
 
 # Stats
