@@ -92,11 +92,14 @@ for (var i = 0; i < btns.length; i++) {
 </script>
 
 <style>
-.classname a {
-    color: #FFFFFF;
-    text-decoration: none;
-}
-  
+
+a:hover, a:visited, a:link, a:active {
+
+    text-decoration: none!important;
+
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+}  
 .filterDiv {
   float: left;
   background-color: #2196F3;
