@@ -2,7 +2,7 @@
 #
 # Simple static site builder.
 #
-# Cron: # * * * * * kayoo (cd /DATA/git/card; git pull |grep "Already up-to-date") || (cd /DATA/git/card && ./make)
+# Cron: # * * * * * kayoo (cd /DATA/git/DSA; git pull |grep "Already up-to-date") || (cd /DATA/git/DSA && ./make)
 ## VARS 
 WORKDIR="/DATA/git/DSA"
 DOCUMENTROOT="/DATA/www/DSA"
