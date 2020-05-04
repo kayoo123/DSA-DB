@@ -1,5 +1,5 @@
 ---
-title: DSA-DataBase
+
 ---
 ![logo](https://dsa.jeremi.biz/img/logo.png "Welcome")
 
