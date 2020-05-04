@@ -33,6 +33,7 @@ title: Characters
 </ul>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
 <script>
 $(document).ready(function(){
   $("#myInput").on("keyup", function() {
@@ -43,6 +44,7 @@ $(document).ready(function(){
   });
 });
 </script>
+
 <script>
 filterSelection("all")
 function filterSelection(c) {
@@ -87,6 +89,7 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 </script>
+
 <style>
 .filterDiv {
   float: left;
@@ -124,5 +127,16 @@ for (var i = 0; i < btns.length; i++) {
 .btn.active {
   background-color: #666;
   color: white;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
 }
 </style>
