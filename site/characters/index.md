@@ -121,7 +121,7 @@ for (var i = 0; i < btns.length; i++) {
   background-image: url('/css/searchicon.png');
   background-position: 10px 12px;
   background-repeat: no-repeat;
-  width: 100px;
+  width: 200px;
   font-size: 16px;
   padding: 12px 20px 12px 40px;
   border: 1px solid #ddd;
