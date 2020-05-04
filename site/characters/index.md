@@ -81,8 +81,6 @@ for (var i = 0; i < btns.length; i++) {
 <style>
 .filterDiv {
   float: left;
-  background-color: #2196F3;
-  color: #ffffff;
   width: 100px;
   line-height: 100px;
   text-align: center;
