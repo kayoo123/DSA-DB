@@ -11,27 +11,14 @@ title: Characters
   <button class="btn" onclick="filterSelection('Support')"> Support</button>
   <button class="btn" onclick="filterSelection('Defense')"> Defense</button>
 </div>
-<div class="container">
+<div id="myList" class="container">
   <div class="filterDiv Hero Offense"><a href="Mickey.html">Mickey</a></div>
-  <div class="filterDiv colors fruits">Orange</div>
-  <div class="filterDiv cars">Volvo</div>
-  <div class="filterDiv colors">Red</div>
-  <div class="filterDiv cars animals">Mustang</div>
-  <div class="filterDiv colors">Blue</div>
-  <div class="filterDiv animals">Cat</div>
-  <div class="filterDiv animals">Dog</div>
-  <div class="filterDiv fruits">Melon</div>
-  <div class="filterDiv fruits animals">Kiwi</div>
-  <div class="filterDiv fruits">Banana</div>
-  <div class="filterDiv fruits">Lemon</div>
-  <div class="filterDiv animals">Cow</div>
+  <div class="filterDiv Villain Offense fruits">Hades</div>
+  <div class="filterDiv Hero Offense">Aladdin</div>
+  <div class="filterDiv Villain Offense">Demona</div>
+  <div class="filterDiv Hero Defense">Jasmine</div>
+  <div class="filterDiv Hero Offense">Jack Sparrow</div>
 </div>
-<ul id="myList">
-  <li><a href="Mickey.html">Mickey</a></li>
-  <li><a href="Hades.html">Hades</a></li>
-  <li><a href="Aladdin.html">Aladdin</a></li>
-  <li><a href="ShanYu.html">ShanYu</a></li>
-</ul>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
@@ -39,7 +26,7 @@ title: Characters
 $(document).ready(function(){
   $("#myInput").on("keyup", function() {
     var value = $(this).val().toLowerCase();
-    $("#myList li").filter(function() {
+    $("#myList div").filter(function() {
       $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
     });
   });
