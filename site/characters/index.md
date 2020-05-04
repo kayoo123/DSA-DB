@@ -118,7 +118,7 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 #myInput {
-  background-image: url('/css/searchicon.png');
+  background-image: url('/img/searchicon.png');
   background-position: 10px 12px;
   background-repeat: no-repeat;
   width: 200px;
