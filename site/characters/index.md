@@ -2,8 +2,6 @@
 title: Characters
 ---
 
-# Search
-
 <input id="myInput" type="text" placeholder="Search..">
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
