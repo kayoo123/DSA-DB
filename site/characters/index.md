@@ -13,7 +13,7 @@ title: Characters
 </div>
 <div id="myList" class="container">
   <div class="filterDiv Hero Offense"><a href="Mickey.html">Mickey</a></div>
-  <div class="filterDiv Villain Offense fruits">Hades</div>
+  <div class="filterDiv Villain Offense">Hades</div>
   <div class="filterDiv Hero Offense">Aladdin</div>
   <div class="filterDiv Villain Offense">Demona</div>
   <div class="filterDiv Hero Defense">Jasmine</div>
