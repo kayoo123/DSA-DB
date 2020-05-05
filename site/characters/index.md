@@ -83,10 +83,12 @@ for (var i = 0; i < btns.length; i++) {
   float: left;
   width: 100px;
   background-color: #31274c;
+  color:fff;
   line-height: 100px;
   text-align: center;
   margin: 2px;
   display: none;
+  border-radius: 25px;
 }
 
 .show {
