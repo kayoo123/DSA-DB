@@ -80,7 +80,7 @@ for (var i = 0; i < btns.length; i++) {
 
 <style>
 .filterDiv {
-  width: 70px;
+  width: 80px;
   float: left;
   background-color: #31274c;
   color: #ffffff;
@@ -134,7 +134,4 @@ for (var i = 0; i < btns.length; i++) {
   visibility: collapse;
 }
 
-img {
-    width: 50%;
-}
 </style>
