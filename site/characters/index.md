@@ -12,7 +12,7 @@ title: Characters
   <button class="btn" onclick="filterSelection('Defense')"> Defense</button>
 </div>
 <div id="myList" class="container">
-  <div class="filterDiv Hero Offense"><a href="Mickey.html"><img src="/img/Mickey.png"></a></div>
+  <div class="filterDiv Hero Offense"><a href="Mickey.html"><img src="/img/Mickey.png"></a>Mickey</div>
   <div class="filterDiv Villain Offense">Hades</div>
   <div class="filterDiv Hero Offense">Aladdin</div>
   <div class="filterDiv Villain Offense">Demona</div>
@@ -84,6 +84,7 @@ for (var i = 0; i < btns.length; i++) {
   width: 100px;
   background-color: #31274c;
   color:fff;
+  Text color: white;
   line-height: 100px;
   text-align: center;
   margin: 2px;
