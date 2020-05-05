@@ -80,7 +80,7 @@ for (var i = 0; i < btns.length; i++) {
 
 <style>
 .filterDiv {
-  width: 80px;
+  width: 60px;
   float: left;
   background-color: #31274c;
   color: #ffffff;
