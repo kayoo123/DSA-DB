@@ -12,12 +12,12 @@ title: Characters
   <button class="btn" onclick="filterSelection('Defense')"> Defense</button>
 </div>
 <div id="myList" class="container">
-  <div class="filterDiv Hero Offense"><a href="Mickey.html"><img width="50%" src="/img/Mickey.png"></a><p hidden>Mickey</div>
-  <div class="filterDiv Villain Offense"><a href="Hades.html"><img width="50%" src="/img/Hades.png"></a><p hidden>Hades</div>
-  <div class="filterDiv Hero Offense"><a href="Aladdin.html"><img width="50%" src="/img/Aladdin.png"></a><p hidden>Aladdin</div>
-  <div class="filterDiv Villain Offense"><a href="Demona.html"><img width="50%" src="/img/Demona.png"></a><p hidden>Demona</div>
-  <div class="filterDiv Hero Defense"><a href="Jasmine.html"><img width="50%" src="/img/Jasmine.png"></a><p hidden>Jasmine</div>
-  <div class="filterDiv Hero Offense"><a href="Jack_Sparrow.html"><img width="50%" src="/img/Jack_Sparrow.png"></a><p hidden>Jack Sparrow</div>
+  <div class="filterDiv Hero Offense"><a href="Mickey.html"><img src="/img/Mickey.png"></a><p hidden>Mickey</div>
+  <div class="filterDiv Villain Offense"><a href="Hades.html"><img src="/img/Hades.png"></a><p hidden>Hades</div>
+  <div class="filterDiv Hero Offense"><a href="Aladdin.html"><img src="/img/Aladdin.png"></a><p hidden>Aladdin</div>
+  <div class="filterDiv Villain Offense"><a href="Demona.html"><img src="/img/Demona.png"></a><p hidden>Demona</div>
+  <div class="filterDiv Hero Defense"><a href="Jasmine.html"><img src="/img/Jasmine.png"></a><p hidden>Jasmine</div>
+  <div class="filterDiv Hero Offense"><a href="Jack_Sparrow.html"><img src="/img/Jack_Sparrow.png"></a><p hidden>Jack Sparrow</div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
