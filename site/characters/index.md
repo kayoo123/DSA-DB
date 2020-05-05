@@ -134,4 +134,7 @@ for (var i = 0; i < btns.length; i++) {
   visibility: collapse;
 }
 
+img {
+    width: 50%;
+}
 </style>
