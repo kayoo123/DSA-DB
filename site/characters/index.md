@@ -80,7 +80,6 @@ for (var i = 0; i < btns.length; i++) {
 
 <style>
 .filterDiv {
-  float: left;
   width: 100px;
   background-color: #31274c;
   color: #ffffff;
@@ -89,7 +88,6 @@ for (var i = 0; i < btns.length; i++) {
   margin: 2px;
   display: none;
   border-radius: 25px;
-  text-align: center;
 }
 
 .show {
