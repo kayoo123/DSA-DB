@@ -70,7 +70,6 @@ title: Characters
 <div class="filterDiv Villain Offense Wilds"><center><a href="Shere_Khan.html"><img src="/img/Shere_Khan.png"></a><p hidden>Shere_Khan</center></div>
 <div class="filterDiv Villain Offense Kingdom"><center><a href="Sheriff_Of_Nottingham.html"><img src="/img/Sheriff_Of_Nottingham.png"></a><p hidden>Sheriff_Of_Nottingham</center></div>
 <div class="filterDiv Hero Defense Wilds"><center><a href="Simba.html"><img src="/img/Simba.png"></a><p hidden>Simba</center></div>
-<div class="filterDiv Hero Defense Downtown"><center><a href="Steamboat_Mickey.html"><img src="/img/Steamboat_Mickey.png"></a><p hidden>Steamboat Mickey</center></div>
 <div class="filterDiv Hero Defense Downtown"><center><a href="Sulley.html"><img src="/img/Sulley.png"></a><p hidden>Sulley</center></div>
 <div class="filterDiv Villain Offense Downtown"><center><a href="Syndrome.html"><img src="/img/Syndrome.png"></a><p hidden>Syndrome</center></div>
 <div class="filterDiv Villain Offense Mythical"><center><a href="The_Horned_King.html"><img src="/img/The_Horned_King.png"></a><p hidden>The Horned King</center></div>
