@@ -1,4 +1,5 @@
 # DSA-DB
-Disney Sorcerer Arena
+Disney Sorcerer Arena - DataBase
 
-test : https://dsa.jeremi.biz
+## URL: https://dsa.jeremi.biz
+
