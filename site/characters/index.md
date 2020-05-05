@@ -93,12 +93,12 @@ for (var i = 0; i < btns.length; i++) {
 
 .show {
   display: block;
-  text-align: center;
 }
 
 .container {
   margin-top: 20px;
   overflow: hidden;
+  text-align: center;
 }
 
 /* Style the buttons */
