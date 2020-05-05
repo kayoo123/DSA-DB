@@ -20,8 +20,8 @@ title: Characters
 <div id="myList" class="container">
 <div class="filterDiv Hero Offense Kingdom"><center><a href="Aladdin.html"><img src="/img/Aladdin.png"></a><p hidden>Aladdin</center></div>
 <div class="filterDiv Hero Offense Downtown"><center><a href="Anger.html"><img src="/img/Anger.png"></a><p hidden>Anger</center></div>
-<div class="filterDiv Hero Offense"><center><a href="Ariel.html"><img src="/img/Ariel.png"></a><p hidden>Ariel</center></div>
-<div class="filterDiv Hero Support Oceanic Princess"><center><a href="Baloo.html"><img src="/img/Baloo.png"></a><p hidden>Baloo</center></div>
+<div class="filterDiv Hero Support Oceanic Princess"><center><a href="Ariel.html"><img src="/img/Ariel.png"></a><p hidden>Ariel</center></div>
+<div class="filterDiv Hero Support Wilds"><center><a href="Baloo.html"><img src="/img/Baloo.png"></a><p hidden>Baloo</center></div>
 <div class="filterDiv Hero Support Downtown"><center><a href="Barley.html"><img src="/img/Barley.png"></a><p hidden>Barley</center></div>
 <div class="filterDiv Villain Offense Downtown"><center><a href="Big_Bad_Wolf.html"><img src="/img/Big_Bad_Wolf.png"></a><p hidden>Big_Bad_Wolf</center></div>
 <div class="filterDiv Hero Offense Downtown"><center><a href="Buzz_Lightyear.html"><img src="/img/Buzz_Lightyear.png"></a><p hidden>Buzz_Lightyear</center></div>
@@ -39,16 +39,16 @@ title: Characters
 <div class="filterDiv Hero Offense Oceanic"><center><a href="Jack_Sparrow.html"><img src="/img/Jack_Sparrow.png"></a><p hidden>Jack_Sparrow</center></div>
 <div class="filterDiv Villain Offense Kingdom"><center><a href="Jafar.html"><img src="/img/Jafar.png"></a><p hidden>Jafar</center></div>
 <div class="filterDiv Villain Defense Downtown"><center><a href="Jangles_The_Clown.html"><img src="/img/Jangles_The_Clown.png"></a><p hidden>Jangles_The_Clown</center></div>
-<div class="filterDiv Hero Defense Kingdom"><center><a href="Jasmine.html"><img src="/img/Jasmine.png"></a><p hidden>Jasmine</center></div>
+<div class="filterDiv Hero Defense Kingdom Princess"><center><a href="Jasmine.html"><img src="/img/Jasmine.png"></a><p hidden>Jasmine</center></div>
 <div class="filterDiv Hero Offense Downtown"><center><a href="Jessie.html"><img src="/img/Jessie.png"></a><p hidden>Jessie</center></div>
 <div class="filterDiv Hero Offense Downtown"><center><a href="Judy_Hopps.html"><img src="/img/Judy_Hopps.png"></a><p hidden>Judy_Hopps</center></div>
 <div class="filterDiv Hero Defense Kingdom"><center><a href="Kronk.html"><img src="/img/Kronk.png"></a><p hidden>Kronk</center></div>
 <div class="filterDiv Villain Offense Mythical"><center><a href="Madam_Mim.html"><img src="/img/Madam_Mim.png"></a><p hidden>Madam_Mim</center></div>
-<div class="filterDiv Hero Offense Wilds"><center><a href="Merida.html"><img src="/img/Merida.png"></a><p hidden>Merida</center></div>
+<div class="filterDiv Hero Offense Wilds Princess"><center><a href="Merida.html"><img src="/img/Merida.png"></a><p hidden>Merida</center></div>
 <div class="filterDiv Hero Offense Kingdom"><center><a href="Mickey.html"><img src="/img/Mickey.png"></a><p hidden>Mickey</center></div>
 <div class="filterDiv Hero Defense Downtown"><center><a href="Monterey_Jack.html"><img src="/img/Monterey_Jack.png"></a><p hidden>Monterey_Jack</center></div>
 <div class="filterDiv Hero Defense Downtown"><center><a href="Mr_Incredible.html"><img src="/img/Mr_Incredible.png"></a><p hidden>Mr_Incredible</center></div>
-<div class="filterDiv Hero Offense Kingdom"><center><a href="Mulan.html"><img src="/img/Mulan.png"></a><p hidden>Mulan</center></div>
+<div class="filterDiv Hero Offense Kingdom Princess"><center><a href="Mulan.html"><img src="/img/Mulan.png"></a><p hidden>Mulan</center></div>
 <div class="filterDiv Villain Defense Mythical"><center><a href="Oogie_Boogie.html"><img src="/img/Oogie_Boogie.png"></a><p hidden>Oogie_Boogie</center></div>
 <div class="filterDiv Villain Offense Downtown"><center><a href="Pete.html"><img src="/img/Pete.png"></a><p hidden>Pete</center></div>
 <div class="filterDiv Hero Support Wilds Princess"><center><a href="Pocahontas.html"><img src="/img/Pocahontas.png"></a><p hidden>Pocahontas</center></div>
