@@ -88,7 +88,7 @@ for (var i = 0; i < btns.length; i++) {
   text-align: center;
   margin: 2px;
   display: none;
-  border-radius: 25px;
+  border-radius: 5px;
 }
 
 .show {
