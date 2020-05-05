@@ -39,6 +39,7 @@ title: Characters
 <div class="filterDiv Villain Offense Mythical"><center><a href="Hades.html"><img src="/img/Hades.png"></a><p hidden>Hades</center></div>
 <div class="filterDiv Villain Defense Wilds"><center><a href="Hopper.html"><img src="/img/Hopper.png"></a><p hidden>Hopper</center></div>
 <div class="filterDiv Hero Offense Downtown"><center><a href="Ian.html"><img src="/img/Ian.png"></a><p hidden>Ian</center></div>
+<div class="filterDiv Hero Offense Downtown"><center><a href="Jackjack.html"><img src="/img/Jackjack.png"></a><p hidden>Jackjack jack jack</center></div>
 <div class="filterDiv Hero Support Mythical"><center><a href="Jack_Skellington.html"><img src="/img/Jack_Skellington.png"></a><p hidden>Jack_Skellington</center></div>
 <div class="filterDiv Hero Offense Oceanic"><center><a href="Jack_Sparrow.html"><img src="/img/Jack_Sparrow.png"></a><p hidden>Jack_Sparrow</center></div>
 <div class="filterDiv Villain Offense Kingdom"><center><a href="Jafar.html"><img src="/img/Jafar.png"></a><p hidden>Jafar</center></div>
@@ -51,6 +52,7 @@ title: Characters
 <div class="filterDiv Hero Offense Wilds Princess"><center><a href="Merida.html"><img src="/img/Merida.png"></a><p hidden>Merida</center></div>
 <div class="filterDiv Hero Support Mythical"><center><a href="Merlin.html"><img src="/img/Merlin.png"></a><p hidden>Merlin</center></div> 
 <div class="filterDiv Hero Offense Kingdom"><center><a href="Sorcerer_Arena_Mickey.html"><img src="/img/Sorcerer_Arena_Mickey.png"></a><p hidden>Sorcerer Arena Mickey</center></div>
+<div class="filterDiv Hero Defense Downtown"><center><a href="Steamboat_Mickey.html"><img src="/img/Steamboat_Mickey.png"></a><p hidden>Steamboat Mickey</center></div>
 <div class="filterDiv Hero Defense Downtown"><center><a href="Monterey_Jack.html"><img src="/img/Monterey_Jack.png"></a><p hidden>Monterey_Jack</center></div>
 <div class="filterDiv Villain Defense Wilds"><center><a href="Mordu.html"><img src="/img/Mordu.png"></a><p hidden>Mordu Mor du</center></div>
 <div class="filterDiv Hero Defense Downtown"><center><a href="Mr_Incredible.html"><img src="/img/Mr_Incredible.png"></a><p hidden>Mr_Incredible</center></div>
