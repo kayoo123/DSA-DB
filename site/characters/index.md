@@ -83,8 +83,7 @@ for (var i = 0; i < btns.length; i++) {
   float: left;
   width: 100px;
   background-color: #31274c;
-  color:fff;
-  Text color: white;
+  color: #ffffff;
   line-height: 100px;
   text-align: center;
   margin: 2px;
