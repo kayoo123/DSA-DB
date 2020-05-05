@@ -12,7 +12,7 @@ title: Characters
   <button class="btn" onclick="filterSelection('Defense')"> Defense</button>
 </div>
 <div id="myList" class="container">
-  <div class="filterDiv Hero Offense"><center><a href="Mickey.html"><img src="/img/Mickey.png"></a><p hidden>Mickey</center></div>
+  <div class="filterDiv Hero Offense"><a href="Mickey.html"><img src="/img/Mickey.png"></a><p hidden>Mickey</div>
   <div class="filterDiv Villain Offense"><a href="Hades.html"><img src="/img/Hades.png"></a><p hidden>Hades</div>
   <div class="filterDiv Hero Offense"><a href="Aladdin.html"><img src="/img/Aladdin.png"></a><p hidden>Aladdin</div>
   <div class="filterDiv Villain Offense"><a href="Demona.html"><img src="/img/Demona.png"></a><p hidden>Demona</div>
@@ -89,6 +89,7 @@ for (var i = 0; i < btns.length; i++) {
   margin: 2px;
   display: none;
   border-radius: 25px;
+  text-align: center;
 }
 
 .show {
@@ -98,7 +99,6 @@ for (var i = 0; i < btns.length; i++) {
 .container {
   margin-top: 20px;
   overflow: hidden;
-  text-align: center;
 }
 
 /* Style the buttons */
