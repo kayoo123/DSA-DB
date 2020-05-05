@@ -9,7 +9,7 @@ title: Characters
   <button class="btn" onclick="filterSelection('Villain')"> Villain</button>
   <button class="btn" onclick="filterSelection('Offense')"> Offense</button>
   <button class="btn" onclick="filterSelection('Support')"> Support</button>
-  <button class="btn" onclick="filterSelection('Defense')"> Defense</button><br />
+  <button class="btn" onclick="filterSelection('Defense')"> Defense</button>
   <button class="btn" onclick="filterSelection('Downtown')"> Downtown</button>
   <button class="btn" onclick="filterSelection('Kingdom')"> Kingdom</button>
   <button class="btn" onclick="filterSelection('Mythical')"> Mythical</button>
