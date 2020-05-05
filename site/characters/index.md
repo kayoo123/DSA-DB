@@ -7,12 +7,13 @@ title: Characters
   <button class="btn active" onclick="filterSelection('all')"> Show all</button>
   <button class="btn" onclick="filterSelection('Hero')"> Hero</button>
   <button class="btn" onclick="filterSelection('Villain')"> Villain</button>
+  -
   <button class="btn" onclick="filterSelection('Offense')"> Offense</button>
   <button class="btn" onclick="filterSelection('Support')"> Support</button>
   <button class="btn" onclick="filterSelection('Defense')"> Defense</button>
 </div>
 <div id="myList" class="container">
-  <div class="filterDiv Hero Offense"><a href="Mickey.html"><img src="/img/Mickey.png">Mickey</a></div>
+  <div class="filterDiv Hero Offense"><a href="Mickey.html"><img src="/img/Mickey.png"></a>Mickey</div>
   <div class="filterDiv Villain Offense">Hades</div>
   <div class="filterDiv Hero Offense">Aladdin</div>
   <div class="filterDiv Villain Offense">Demona</div>
