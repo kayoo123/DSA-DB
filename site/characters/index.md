@@ -133,5 +133,7 @@ for (var i = 0; i < btns.length; i++) {
   display: none;
   visibility: collapse;
 }
-
+img {
+    width: 50%;
+}
 </style>
