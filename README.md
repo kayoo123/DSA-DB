@@ -17,7 +17,7 @@ Please create a [new Issue](https://github.com/kayoo123/DSA-DB/issues) if you wa
 
 ## RoadMap
 
-- [x] get img of all characters (Miss `Steamboat Mickey` and `Jack-Jack`) 
+- [x] get img of all characters 
 - [ ] get img of all spells
 - [x] Fitler characters
 - [ ] create template for hero page
