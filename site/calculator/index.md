@@ -26,3 +26,4 @@ title: Conquest Calculator
 </tr>
 </tbody>
 </table>
+<input type="submit" name="submit" value="Convertir"><input type="reset">
